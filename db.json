@@ -16,7 +16,7 @@
             "is_active": true,
             "date_joined": "2021-12-27T10:35:29.932662Z"
           },
-          "document_file": "file1.jpg",
+          "document_file": "https://raw.githubusercontent.com/codetrend24/fake-json/master/file1.jpg",
           "created": "2021-12-27T10:36:34.235151Z"
         },
         {
@@ -31,7 +31,7 @@
             "is_active": true,
             "date_joined": "2021-12-27T10:35:29.932662Z"
           },
-          "document_file": "file2.jpg",
+          "document_file": "https://raw.githubusercontent.com/codetrend24/fake-json/master/file2.jpg",
           "created": "2022-01-09T08:10:00.194444Z"
         }
       ]
