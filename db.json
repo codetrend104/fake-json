@@ -234,5 +234,37 @@
       "title": "نام پروژه",
       "name": "طراحی وب سایت"
     }
+  ],
+  "prs": [
+    {
+      "img": "/assets/image/project-img2.jpg",
+      "title": "نام پروژه",
+      "name": "طراحی وب سایت"
+    },
+    {
+      "img": "/assets/image/project-img5.jpg",
+      "title": "نام پروژه",
+      "name": "طراحی وب سایت"
+    },
+    {
+      "img": "/assets/image/project-img1.jpg",
+      "title": "نام پروژه",
+      "name": "طراحی وب سایت"
+    },
+    {
+      "img": "/assets/image/project-img3.jpg",
+      "title": "نام پروژه",
+      "name": "طراحی وب سایت"
+    },
+    {
+      "img": "/assets/image/project-img4.jpg",
+      "title": "نام پروژه",
+      "name": "طراحی وب سایت"
+    },
+    {
+      "img": "/assets/image/project-img1.jpg",
+      "title": "نام پروژه",
+      "name": "طراحی وب سایت"
+    }
   ]
 }
